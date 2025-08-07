@@ -3,6 +3,7 @@
 ## Preview
 
 [![Watch the demo](https://img.shields.io/badge/Watch-Video-red?logo=youtube)](https://youtu.be/FFSx_IFpFU0)
+[Play the Demo](https://saaami.itch.io/the-fox-has-a-gun)
 
 ## Project Overview
 
